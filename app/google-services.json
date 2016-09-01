@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "16497572313",
+    "project_id": "garena-test-1470637917812"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16497572313:android:a87a24004ee36aef",
+        "android_client_info": {
+          "package_name": "com.garena.garenatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16497572313-6ii03us43v9orn8p70jukjmicblifi0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.garena.garenatest",
+            "certificate_hash": "3BA755D7657728BCA0DF43A8D8E821260A4D670E"
+          }
+        },
+        {
+          "client_id": "16497572313-dc6ib6l0g2h9ksq8q1557t48n79u2o40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnGkuR6ztDYJcyLCEi17OdflW5AxwQ8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
